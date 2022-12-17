@@ -1,0 +1,11 @@
+usuarios		contraseña
+	vendedores
+j flores		123456FLO
+adiaz			123456ad
+arojas			123456ar
+ddfernandez		123456dd
+nluna			123456lu
+festrada		123456fe
+daaduviri		123456da
+	distribuidores
+bomarquez		123456bo 
